@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.naga.shopping.catalogue.ShoppingItemImplTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-08-04T14:44:56" hostname="LAP51634" time="0.007">
+  <properties/>
+  <testcase name="createItemWithBlankSpaceNameAndPrice" classname="com.naga.shopping.catalogue.ShoppingItemImplTest" time="0.003"/>
+  <testcase name="createItemWithValidNameAndNullPrice" classname="com.naga.shopping.catalogue.ShoppingItemImplTest" time="0.0"/>
+  <testcase name="createItemWithNullNameAndPrice" classname="com.naga.shopping.catalogue.ShoppingItemImplTest" time="0.0"/>
+  <testcase name="createItemWithEmptyNameAndValidPrice" classname="com.naga.shopping.catalogue.ShoppingItemImplTest" time="0.0"/>
+  <testcase name="createItemWithNullNameAndValidPrice" classname="com.naga.shopping.catalogue.ShoppingItemImplTest" time="0.0"/>
+  <testcase name="testHashCode" classname="com.naga.shopping.catalogue.ShoppingItemImplTest" time="0.002"/>
+  <testcase name="testEquals" classname="com.naga.shopping.catalogue.ShoppingItemImplTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

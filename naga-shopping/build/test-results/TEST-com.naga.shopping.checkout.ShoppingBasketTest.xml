@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.naga.shopping.checkout.ShoppingBasketTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-08-04T14:44:56" hostname="LAP51634" time="0.003">
+  <properties/>
+  <testcase name="add2DifferentItems" classname="com.naga.shopping.checkout.ShoppingBasketTest" time="0.001"/>
+  <testcase name="addItemWithEmptyName" classname="com.naga.shopping.checkout.ShoppingBasketTest" time="0.0"/>
+  <testcase name="addOneItem" classname="com.naga.shopping.checkout.ShoppingBasketTest" time="0.001"/>
+  <testcase name="addItemWithNameAsBlankSpace" classname="com.naga.shopping.checkout.ShoppingBasketTest" time="0.0"/>
+  <testcase name="addNullItem" classname="com.naga.shopping.checkout.ShoppingBasketTest" time="0.0"/>
+  <testcase name="add2ItemsOfSameType" classname="com.naga.shopping.checkout.ShoppingBasketTest" time="0.0"/>
+  <testcase name="clearsAllItemsFromTheBasket" classname="com.naga.shopping.checkout.ShoppingBasketTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

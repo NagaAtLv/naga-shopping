@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.naga.shopping.checkout.CheckoutManagerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-08-04T14:44:56" hostname="LAP51634" time="0.007">
+  <properties/>
+  <testcase name="getTotalPriceWithOneItem" classname="com.naga.shopping.checkout.CheckoutManagerTest" time="0.005"/>
+  <testcase name="getTotalPriceWith3ItemQuanity1each" classname="com.naga.shopping.checkout.CheckoutManagerTest" time="0.0"/>
+  <testcase name="getTotalPriceWithMultiItemMultiQuanity" classname="com.naga.shopping.checkout.CheckoutManagerTest" time="0.001"/>
+  <testcase name="getTotalPriceWith1Item3Quanity" classname="com.naga.shopping.checkout.CheckoutManagerTest" time="0.001"/>
+  <testcase name="getTotalPriceWithNullItems" classname="com.naga.shopping.checkout.CheckoutManagerTest" time="0.0"/>
+  <testcase name="getTotalPriceWithNoItems" classname="com.naga.shopping.checkout.CheckoutManagerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
